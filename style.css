@@ -11,9 +11,10 @@ html {
   }
   
   p {
-    padding: 20px;
+    padding: 15px;
     color: white;
     background-color: lightseagreen;
+    word-wrap: normal;
   }
   
   button {
